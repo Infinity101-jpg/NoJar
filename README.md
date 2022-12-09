@@ -18,5 +18,4 @@ We have not invented a new technology. It is still running on Java. Within the m
 - No setup required (All files are already included and thus is plug and play).
 - Very fast
 - As it is still running on a normal Java, just embedded, you can still have plugins and everything you want to have.
-### Note: the server.rar file already has a world with a seed in it, meaning that every server you make will have the same world. This is for the sake of time
-of server boot. If you want a random seed, delete the world folder. It may take a few more seconds to boot the server though.
+### Note: the server.rar file already has a world with a seed in it, meaning that every server you make will have the same world. This is for the sake of time of server boot. If you want a random seed, delete the world folder. It may take a few more seconds to boot the server though.
