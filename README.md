@@ -3,7 +3,7 @@
 ![This is an image](https://nojar.kokoradio.repl.co/logo.png)
 <br><br>
 ## Quick Links
-[Download](https://nojar.kokoradio.repl.co/download.html?dl=true)  [Discord](https://discord.gg/nDRF7gBcUh)
+[Download](https://nojar.kokoradio.repl.co/download.html?dl=true) <hr> [Discord](https://discord.gg/nDRF7gBcUh)
 
 ## Download
 The file is too big to be uploaded to GitHub. Please [download](https://nojar.kokoradio.repl.co/download.html?dl=true) it here.
