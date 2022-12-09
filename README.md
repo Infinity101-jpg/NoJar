@@ -26,13 +26,14 @@ We have not invented a new technology. It is still running on Java. Within the m
 ## Misc. Notes 
 These notes are not important for operating the server.
 
-## Progress
+### Progress
 We are currently working on optimizing the bukkit.yml and spigot.yml files so that the server is EVEN faster.
 
-## Help & Bugs
+### Help & Bugs
 If you want help on how to use the server, or perhaps the server has crashed (it is very probable that it may crash because it was developed on a 32-bit machine instead of 64-bit. Fixes are available though :) ), goto our [Discord server](https://discord.gg/nDRF7gBcUh).
 
-## Contribution
+### Contribution
 If you wish to contribute, also goto our Discord server.
 
+<br><br><br>
 If you have read everything to thus far, thank you for your interest in this project. We really appreciate it :)
